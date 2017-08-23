@@ -1,2 +1,3 @@
 # ComplexPhenotypes
-## Our new page is here: https://github.com/dbGaPdb
+## Our new page is here: https://github.com/dbGaPdb/dbGaPdb
+### Thanks!
